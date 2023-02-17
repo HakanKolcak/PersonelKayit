@@ -1,0 +1,12 @@
+C:\Users\hakan.kolcak\source\repos\PersonelKayıt\PersonelKayıt\bin\Debug\PersonelKayıt.exe.config
+C:\Users\hakan.kolcak\source\repos\PersonelKayıt\PersonelKayıt\bin\Debug\PersonelKayıt.exe
+C:\Users\hakan.kolcak\source\repos\PersonelKayıt\PersonelKayıt\bin\Debug\PersonelKayıt.pdb
+C:\Users\hakan.kolcak\source\repos\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.csproj.AssemblyReference.cache
+C:\Users\hakan.kolcak\source\repos\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.csproj.SuggestedBindingRedirects.cache
+C:\Users\hakan.kolcak\source\repos\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.Form1.resources
+C:\Users\hakan.kolcak\source\repos\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.Properties.Resources.resources
+C:\Users\hakan.kolcak\source\repos\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.csproj.GenerateResource.cache
+C:\Users\hakan.kolcak\source\repos\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.csproj.CoreCompileInputs.cache
+C:\Users\hakan.kolcak\source\repos\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.exe
+C:\Users\hakan.kolcak\source\repos\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.pdb
+C:\Users\hakan.kolcak\source\repos\PersonelKayıt\PersonelKayıt\obj\Debug\PersonelKayıt.FormAvans.resources
